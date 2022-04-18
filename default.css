@@ -431,6 +431,8 @@ header {
 .portfolio__item {
     background: var(--clr-accent);
     overflow: hidden;
+    border-style: solid;
+    border-color: rgb(73, 73, 73);
     
 }
 
